@@ -66,14 +66,8 @@ Uma aula especial e 100% prática! Aplicamos todos os conceitos de POO (Herança
 
 Aprenda a salvar os dados dos seus objetos no Disco Rígido para que eles não sumam ao fechar o programa. Exploramos o ciclo de leitura e gravação em formatos essenciais do mercado e para treinamento de Inteligência Artificial.
 
-📄 Log e Auditoria (TXT)
+📄 Exemplo Interativo 1: O Diário de Bordo (Logs) [GitHub](https://github.com/vladcruz/aplicativosdesktop/Aula 06/diario_de_bordo.cs)
 
 📄 Dados Estruturados Clássicos (CSV e XML)
 
 📄 O Rei da Web (JSON)
-
-🧠 Treinamento de IA (JSONL / JSON Lines)
-
-🎯 Desafio: Enciclopédia de Monstros
-
-⚔️ Trabalho de Conclusão do 1º Bimestre
