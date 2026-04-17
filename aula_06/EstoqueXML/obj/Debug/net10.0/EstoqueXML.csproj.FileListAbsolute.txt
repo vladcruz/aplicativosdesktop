@@ -1,0 +1,15 @@
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/bin/Debug/net10.0/EstoqueXML
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/bin/Debug/net10.0/EstoqueXML.deps.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/bin/Debug/net10.0/EstoqueXML.runtimeconfig.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/bin/Debug/net10.0/EstoqueXML.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/bin/Debug/net10.0/EstoqueXML.pdb
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.AssemblyInfoInputs.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.AssemblyInfo.cs
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.csproj.CoreCompileInputs.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.sourcelink.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/refint/EstoqueXML.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.pdb
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/EstoqueXML.genruntimeconfig.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueXML/obj/Debug/net10.0/ref/EstoqueXML.dll

@@ -1,0 +1,15 @@
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/bin/Debug/net10.0/EstoqueCSV
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/bin/Debug/net10.0/EstoqueCSV.deps.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/bin/Debug/net10.0/EstoqueCSV.runtimeconfig.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/bin/Debug/net10.0/EstoqueCSV.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/bin/Debug/net10.0/EstoqueCSV.pdb
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.AssemblyInfoInputs.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.AssemblyInfo.cs
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.csproj.CoreCompileInputs.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.sourcelink.json
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/refint/EstoqueCSV.dll
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.pdb
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/EstoqueCSV.genruntimeconfig.cache
+/Users/vladcruz/Documents/git/aplicativosdesktop/aula_06/EstoqueCSV/obj/Debug/net10.0/ref/EstoqueCSV.dll
